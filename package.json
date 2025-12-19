@@ -1,0 +1,7 @@
+{
+  "name": "nhoom3-wms-skeleton",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Minimal root package.json placeholder retained for skeleton",
+  "license": "MIT"
+}
